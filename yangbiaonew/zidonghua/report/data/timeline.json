@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "杨彪",
+    "children" : [ {
+      "name" : "77820-MainThread",
+      "children" : [ {
+        "name" : "test_0",
+        "uid" : "9aee4b6d40b164e8",
+        "parentUid" : "6a04ebf5bad44e6fe63567bb731b4818",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565577336578,
+          "stop" : 1565577336579,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a04ebf5bad44e6fe63567bb731b4818"
+    } ],
+    "uid" : "b1bedfb88bb5f8caadc9a20099e85cfe"
+  } ]
+}

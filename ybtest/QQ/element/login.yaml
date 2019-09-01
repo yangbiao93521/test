@@ -1,0 +1,31 @@
+---
+#头像的Xpath
+tou: //android.widget.Button[@content-desc="帐户及设置"]
+#账户及设置
+#设置的ID
+seting: com.tencent.mobileqq:id/settings
+#账号管理的ID
+zhanghao: com.tencent.mobileqq:id/account_switch
+
+#退出当前账号的ID
+tuihao: com.tencent.mobileqq:id/logoutBtn
+#确认退出
+tuichu: com.tencent.mobileqq:id/dialogRightBtn
+#取消退出
+quxiao: com.tencent.mobileqq:id/dialogLeftBtn
+#断言  用户注册的acc_id
+xinyonghu: 新用户注册
+
+#输入账号的框   acc_id
+shurukuang: 请输入QQ号码或手机或邮箱
+#密码框  id
+mima: com.tencent.mobileqq:id/password
+
+#登录按钮 id
+denglu: com.tencent.mobileqq:id/login
+
+#登录失败 确认acc_id
+queren: 确认
+
+#登陆成功  ID
+xiaoxi: com.tencent.mobileqq:id/ivTitleName

@@ -1,0 +1,60 @@
+---
+#我的Xpath
+wode: /hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TabHost/android.widget.LinearLayout/android.widget.TabWidget/android.widget.RelativeLayout[4]/android.widget.RelativeLayout
+#设置ID
+shezhi: com.qk.butterfly:id/v_me_setting
+#退出登录ID
+tuichudenglu: com.qk.butterfly:id/v_set_out
+#确定ID
+queding: com.qk.butterfly:id/tv_ok
+#登录ID
+denglu: com.qk.butterfly:id/tv_to_login
+#消息Xpath
+xiaoxi: /hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TabHost/android.widget.LinearLayout/android.widget.TabWidget/android.widget.RelativeLayout[2]/android.widget.RelativeLayout
+#消息-消息ID
+xiaoxi_xiaoxi: com.qk.butterfly:id/tv_message1
+#消息—关注ID
+xiaoxi_guanzhu: com.qk.butterfly:id/tv_message2
+#消息—粉丝ID
+xiaoxi_fensi: com.qk.butterfly:id/tv_message3
+#消息-声友ID
+xiaoxi_shengyou: com.qk.butterfly:id/tv_message4
+#排行Xpath
+paihang: /hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.TabHost/android.widget.LinearLayout/android.widget.TabWidget/android.widget.RelativeLayout[3]
+#魅力榜ID
+meilibang: com.qk.butterfly:id/tv_charm
+#魅力榜—日榜ID
+meilibang_ribang: com.qk.butterfly:id/v_rank_day
+#魅力榜-周榜ID
+meilibang_zhoubang: com.qk.butterfly:id/v_rank_week
+#魅力榜-月榜ID
+meilibang_yuebang: com.qk.butterfly:id/v_rank_all
+#财富榜ID
+caifubang: com.qk.butterfly:id/tv_money
+#财富榜-日榜ID
+caifubang_ribang: com.qk.butterfly:id/v_rank_day
+#财富榜-周榜ID
+caifubang_zhoubang: com.qk.butterfly:id/v_rank_week
+#财富榜-月榜ID
+caifubang_yuebang: com.qk.butterfly:id/v_rank_all
+#礼物榜ID
+liwu: com.qk.butterfly:id/tv_gift_rank
+#礼物榜-日榜ID
+liwu_ribang: com.qk.butterfly:id/v_rank_day
+#礼物榜-周榜ID
+liwu_zhoubang: com.qk.butterfly:id/v_rank_week
+#礼物榜-月榜ID
+liwu_yuebang: com.qk.butterfly:id/v_rank_all
+
+#热门推荐ID
+rementuijian: com.qk.butterfly:id/v_hot
+#六个框classname
+liugekuang: android.widget.LinearLayout
+#四个框ID
+sigekuang: com.qk.butterfly:id/iv_head
+#退出房间ID
+xiaochuangkou: com.qk.butterfly:id/v_close1
+#退出房间ID
+tuichufangjian: com.qk.butterfly:id/v_live_home_close
+
+

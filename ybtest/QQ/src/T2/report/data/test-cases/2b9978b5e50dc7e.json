@@ -1,0 +1,60 @@
+{
+  "uid" : "2b9978b5e50dc7e",
+  "name" : "test_4",
+  "fullName" : "baogao#test_4",
+  "historyId" : "7a7f4c8a4f49004c9890c695e455d3c2",
+  "time" : {
+    "start" : 1566179168494,
+    "stop" : 1566179168494,
+    "duration" : 0
+  },
+  "description" : "\n    这是对函数参数、返回值的一个注释、讲解\n    自我感觉老厉害了\n    ",
+  "descriptionHtml" : "<pre><code>这是对函数参数、返回值的一个注释、讲解\n自我感觉老厉害了\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块二"
+  }, {
+    "name" : "story",
+    "value" : "这是一个垃圾的测试用例"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "baogao"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "杨彪"
+  }, {
+    "name" : "thread",
+    "value" : "65176-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "baogao"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b9978b5e50dc7e.json",
+  "parameterValues" : [ ]
+}

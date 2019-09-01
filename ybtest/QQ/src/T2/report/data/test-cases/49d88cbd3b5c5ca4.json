@@ -1,0 +1,55 @@
+{
+  "uid" : "49d88cbd3b5c5ca4",
+  "name" : "test_1",
+  "fullName" : "baogao#test_1",
+  "historyId" : "b1fad97cc3f22314b89ec86207df43ca",
+  "time" : {
+    "start" : 1566180507118,
+    "stop" : 1566180507118,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块一"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "baogao"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "杨彪"
+  }, {
+    "name" : "thread",
+    "value" : "24384-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "baogao"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "49d88cbd3b5c5ca4.json",
+  "parameterValues" : [ ]
+}

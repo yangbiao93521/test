@@ -1,0 +1,84 @@
+{
+  "uid" : "ddcb60808da6999e",
+  "name" : "test_5",
+  "fullName" : "baogao#test_5",
+  "historyId" : "8b09aa069cb4c7f07fbec542ad08b208",
+  "time" : {
+    "start" : 1566181848550,
+    "stop" : 1566181848550,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blcoker"
+  }, {
+    "name" : "feature",
+    "value" : "模块三"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "baogao"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "杨彪"
+  }, {
+    "name" : "thread",
+    "value" : "5224-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "baogao"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cdce18ad254a3236",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181493939,
+        "stop" : 1566181493939,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f4213a83ea3628b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566180616817,
+        "stop" : 1566180616817,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ebe8c6e870bf71e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566180507193,
+        "stop" : 1566180507193,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddcb60808da6999e.json",
+  "parameterValues" : [ ]
+}
